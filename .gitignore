@@ -23,6 +23,13 @@ $RECYCLE.BIN/
 .Trash-*
 
 # Editor and IDE Files
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
 # Visual Studio Code
 .vscode/
 *.code-workspace
